@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Lectures and Notes\\Third Year Second Semester\\CS381\\Project\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D97599-C6CA-4011-B7D8-F4D4CDD1504A}|Project\\Project.csproj|E:\\Lectures and Notes\\Third Year Second Semester\\CS381\\Project\\Project\\project\\dda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D97599-C6CA-4011-B7D8-F4D4CDD1504A}|Project\\Project.csproj|solutionrelative:project\\dda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D97599-C6CA-4011-B7D8-F4D4CDD1504A}|Project\\Project.csproj|e:\\lectures and notes\\third year second semester\\cs381\\project\\project\\project\\curve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D97599-C6CA-4011-B7D8-F4D4CDD1504A}|Project\\Project.csproj|solutionrelative:project\\curve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D97599-C6CA-4011-B7D8-F4D4CDD1504A}|Project\\Project.csproj|E:\\Lectures and Notes\\Third Year Second Semester\\CS381\\Project\\Project\\project\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D97599-C6CA-4011-B7D8-F4D4CDD1504A}|Project\\Project.csproj|solutionrelative:project\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D97599-C6CA-4011-B7D8-F4D4CDD1504A}|Project\\Project.csproj|E:\\Lectures and Notes\\Third Year Second Semester\\CS381\\Project\\Project\\project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D97599-C6CA-4011-B7D8-F4D4CDD1504A}|Project\\Project.csproj|solutionrelative:project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D97599-C6CA-4011-B7D8-F4D4CDD1504A}|Project\\Project.csproj|E:\\Lectures and Notes\\Third Year Second Semester\\CS381\\Project\\Project\\project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0D97599-C6CA-4011-B7D8-F4D4CDD1504A}|Project\\Project.csproj|solutionrelative:project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Curve.cs",
+              "DocumentMoniker": "E:\\Lectures and Notes\\Third Year Second Semester\\CS381\\Project\\Project\\Project\\Curve.cs",
+              "RelativeDocumentMoniker": "Project\\Curve.cs",
+              "ToolTip": "E:\\Lectures and Notes\\Third Year Second Semester\\CS381\\Project\\Project\\Project\\Curve.cs",
+              "RelativeToolTip": "Project\\Curve.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAA5wDEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T18:25:34.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "E:\\Lectures and Notes\\Third Year Second Semester\\CS381\\Project\\Project\\Project\\Circle.cs",
+              "RelativeDocumentMoniker": "Project\\Circle.cs",
+              "ToolTip": "E:\\Lectures and Notes\\Third Year Second Semester\\CS381\\Project\\Project\\Project\\Circle.cs",
+              "RelativeToolTip": "Project\\Circle.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T18:25:25.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DDA.cs",
+              "DocumentMoniker": "E:\\Lectures and Notes\\Third Year Second Semester\\CS381\\Project\\Project\\Project\\DDA.cs",
+              "RelativeDocumentMoniker": "Project\\DDA.cs",
+              "ToolTip": "E:\\Lectures and Notes\\Third Year Second Semester\\CS381\\Project\\Project\\Project\\DDA.cs",
+              "RelativeToolTip": "Project\\DDA.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T18:25:12.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Lectures and Notes\\Third Year Second Semester\\CS381\\Project\\Project\\Project\\Form1.cs",
+              "RelativeDocumentMoniker": "Project\\Form1.cs",
+              "ToolTip": "E:\\Lectures and Notes\\Third Year Second Semester\\CS381\\Project\\Project\\Project\\Form1.cs",
+              "RelativeToolTip": "Project\\Form1.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAArwNIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T17:55:51.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\Lectures and Notes\\Third Year Second Semester\\CS381\\Project\\Project\\Project\\Form1.cs",
+              "RelativeDocumentMoniker": "Project\\Form1.cs",
+              "ToolTip": "E:\\Lectures and Notes\\Third Year Second Semester\\CS381\\Project\\Project\\Project\\Form1.cs [Design]",
+              "RelativeToolTip": "Project\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T17:53:02.425Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

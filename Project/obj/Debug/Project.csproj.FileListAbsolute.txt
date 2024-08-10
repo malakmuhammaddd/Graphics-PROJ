@@ -1,0 +1,9 @@
+E:\Lectures and Notes\Third Year Second Semester\CS381\Project\Project\Project\bin\Debug\Project.exe.config
+E:\Lectures and Notes\Third Year Second Semester\CS381\Project\Project\Project\bin\Debug\Project.exe
+E:\Lectures and Notes\Third Year Second Semester\CS381\Project\Project\Project\bin\Debug\Project.pdb
+E:\Lectures and Notes\Third Year Second Semester\CS381\Project\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+E:\Lectures and Notes\Third Year Second Semester\CS381\Project\Project\Project\obj\Debug\Project.Properties.Resources.resources
+E:\Lectures and Notes\Third Year Second Semester\CS381\Project\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+E:\Lectures and Notes\Third Year Second Semester\CS381\Project\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+E:\Lectures and Notes\Third Year Second Semester\CS381\Project\Project\Project\obj\Debug\Project.exe
+E:\Lectures and Notes\Third Year Second Semester\CS381\Project\Project\Project\obj\Debug\Project.pdb
